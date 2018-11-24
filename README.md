@@ -2,6 +2,15 @@
 
 > My splendiferous Nuxt.js project
 
+I built this app by watching Maximilian Schwarzmüllers video [Nuxt.js - Introduction by Project](https://www.youtube.com/watch?v=nteDXuqBfn0)
+
+It lists Gopher Stickers from [https://gopherswag.com/](https://gopherswag.com/)... not really. I'm just faking a request but the images is from that site.
+
+![Stickers list](./docs/stickers.png)
+![Stickers list](./docs/boxer.png)
+
+
+
 ## Build Setup
 
 ``` bash
